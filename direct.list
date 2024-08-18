@@ -288,7 +288,7 @@ DOMAIN-SUFFIX, s-microsoft.com, DIRECT
 DOMAIN-SUFFIX, s-reader.com, DIRECT
 DOMAIN-SUFFIX, sagepub.com, DIRECT
 DOMAIN-SUFFIX, sankuai.com, DIRECT
-DOMAIN-SUFFIX, scienceDIRECT.com, DIRECT
+DOMAIN-SUFFIX, sciencedirect.com, DIRECT
 DOMAIN-SUFFIX, scomper.me, DIRECT
 DOMAIN-SUFFIX, scopus.com, DIRECT
 DOMAIN-SUFFIX, seafile.com, DIRECT
@@ -367,7 +367,7 @@ DOMAIN-SUFFIX, xmcdn.com, DIRECT
 DOMAIN-SUFFIX, yangkeduo.com, DIRECT
 DOMAIN-SUFFIX, ydstatic.com, DIRECT
 DOMAIN-SUFFIX, youku.com, DIRECT
-DOMAIN-suffix, ykimg.com, DIRECT
+DOMAIN-SUFFIX, ykimg.com, DIRECT
 DOMAIN-SUFFIX, zhangzishi.cc, DIRECT
 DOMAIN-SUFFIX, zhihu.com, DIRECT
 DOMAIN-SUFFIX, zhimg.com, DIRECT
