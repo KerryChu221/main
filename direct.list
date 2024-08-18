@@ -367,7 +367,7 @@ DOMAIN-SUFFIX, xmcdn.com, DIRECT
 DOMAIN-SUFFIX, yangkeduo.com, DIRECT
 DOMAIN-SUFFIX, ydstatic.com, DIRECT
 DOMAIN-SUFFIX, youku.com, DIRECT
-DOMAIN-suffix, ykimg.com, direct
+DOMAIN-suffix, ykimg.com, DIRECT
 DOMAIN-SUFFIX, zhangzishi.cc, DIRECT
 DOMAIN-SUFFIX, zhihu.com, DIRECT
 DOMAIN-SUFFIX, zhimg.com, DIRECT
