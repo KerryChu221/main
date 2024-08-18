@@ -85,7 +85,7 @@ DOMAIN-SUFFIX, linkedin.com, 代理
 DOMAIN-SUFFIX, licdn.com, 代理
 DOMAIN-SUFFIX, bing.com, 代理
 DOMAIN-SUFFIX, zoom.us, 代理
-
+DOMAIN-SUFFIX, nflxvideo.net, 代理
 
 #BBC
 DOMAIN-SUFFIX, bbc-reporting-api.app, 代理
