@@ -288,7 +288,7 @@ DOMAIN-SUFFIX, s-microsoft.com, DIRECT
 DOMAIN-SUFFIX, s-reader.com, DIRECT
 DOMAIN-SUFFIX, sagepub.com, DIRECT
 DOMAIN-SUFFIX, sankuai.com, DIRECT
-DOMAIN-SUFFIX, sciencedirect.com, DIRECT
+DOMAIN-SUFFIX, scienceDIRECT.com, DIRECT
 DOMAIN-SUFFIX, scomper.me, DIRECT
 DOMAIN-SUFFIX, scopus.com, DIRECT
 DOMAIN-SUFFIX, seafile.com, DIRECT
