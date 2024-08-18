@@ -6,11 +6,11 @@ DOMAIN, cdn.angruo.com, 代理
 DOMAIN-SUFFIX, v2ex.com, 代理
 DOMAIN-SUFFIX, battle.net, 代理
 DOMAIN-SUFFIX, blizzard.com, 代理
-DOMAIN-suffix, getpricetag.com, 代理
-DOMAIN-suffix, m-team.cc, 代理
-DOMAIN-suffix, science.org, 代理
-DOMAIN-suffix, sciencemag.org, 代理
-DOMAIN-suffix, teamviewer.com, 代理
+DOMAIN-SUFFIX, getpricetag.com, 代理
+DOMAIN-SUFFIX, m-team.cc, 代理
+DOMAIN-SUFFIX, science.org, 代理
+DOMAIN-SUFFIX, sciencemag.org, 代理
+DOMAIN-SUFFIX, teamviewer.com, 代理
 
 
 # Top blocked sites
@@ -201,7 +201,7 @@ DOMAIN-SUFFIX, dropboxpartners.com, 代理
 DOMAIN-SUFFIX, dropboxstatic.com, 代理
 DOMAIN-SUFFIX, dropboxusercontent.com, 代理
 DOMAIN-SUFFIX, getdropbox.com, 代理
-DOMAIN-suffix, amazonaws.com, 代理
+DOMAIN-SUFFIX, amazonaws.com, 代理
 
 
 # DNS Leak
