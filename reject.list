@@ -312,6 +312,9 @@ DOMAIN-SUFFIX, pro.letv.com, REJECT
 DOMAIN-SUFFIX, stat.letv.com, REJECT
 DOMAIN-SUFFIX, static.app.m.letv.com, REJECT
 
+#pocoiq
+DOMAIN-SUFFIX, cdn.pocoiq.cn, REJECT
+DOMAIN-SUFFIX, oct.pocoiq.cn, REJECT
 
 #搜狐
 DOMAIN-SUFFIX, adnet.sohu.com, REJECT
