@@ -580,6 +580,9 @@ DOMAIN-SUFFIX, trafficfactory.biz, REJECT
 DOMAIN-SUFFIX, tsyndicate.com, REJECT
 DOMAIN-SUFFIX, wwads.cn, REJECT
 DOMAIN-SUFFIX, static.sensorsdata.cn, REJECT
+DOMAIN, emdcadvertise.eastmoney.com, REJECT
+DOMAIN, roadshow.lvb.eastmoney.com, REJECT
+DOMAIN, adm.10jqka.com.cn, REJECT
 
 # 36Kr
 DOMAIN-SUFFIX, adx.36kr.com, REJECT
