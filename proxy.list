@@ -127,6 +127,7 @@ DOMAIN-SUFFIX, openai.com, 代理
 DOMAIN-SUFFIX, chatgpt.com, 代理
 DOMAIN-SUFFIX, oaistatic.com, 代理
 DOMAIN-SUFFIX, oaiusercontent.com, 代理
+DOMAIN-SUFFIX, api.revenuecat.com, 代理
 # CDN & API
 DOMAIN, openai.com.cdn.cloudflare.net, 代理
 DOMAIN, openaiapi-site.azureedge.net, 代理
