@@ -265,6 +265,10 @@ DOMAIN-SUFFIX, msg2.video.qiyi.com, REJECT
 DOMAIN-SUFFIX, policy.video.iqiyi.com, REJECT
 DOMAIN-SUFFIX, yuedu.iqiyi.com, REJECT
 
+#海度云
+DOMAIN-SUFFIX, mlog.hiido.com, REJECT
+DOMAIN-SUFFIX, ylog.hiido.com, REJECT
+
 #湖南卫视
 DOMAIN-SUFFIX, click.hunantv.com, REJECT
 DOMAIN-SUFFIX, da.hunantv.com, REJECT
