@@ -533,6 +533,88 @@ DOMAIN-SUFFIX, adim.pinduoduo.com, REJECT
 DOMAIN-SUFFIX, upos-sz-mirrorcos.bilivideo.com, REJECT
 DOMAIN-SUFFIX, biligame.com, REJECT
 DOMAIN-SUFFIX, app-analytics-services.com, REJECT
+DOMAIN-SUFFIX, 51y5.net, REJECT
+DOMAIN-SUFFIX, a.adtng.com, REJECT
+DOMAIN-SUFFIX, aaxads.com, REJECT
+DOMAIN-SUFFIX, ad-srv.net, REJECT
+DOMAIN-SUFFIX, ad.api.moji.com, REJECT
+DOMAIN-SUFFIX, ad.wang502.com, REJECT
+DOMAIN-SUFFIX, adbutter.net, REJECT
+DOMAIN-SUFFIX, addthisedge.com, REJECT
+DOMAIN-SUFFIX, ads.trafficjunky.net, REJECT
+DOMAIN-SUFFIX, adtechus.com, REJECT
+DOMAIN-SUFFIX, adtrue.com, REJECT
+DOMAIN-SUFFIX, adxprtz.com, REJECT
+DOMAIN-SUFFIX, cdn.advertserve.com, REJECT
+DOMAIN-SUFFIX, cdn.banclip.com, REJECT
+DOMAIN-SUFFIX, cfts1tifqr.com, REJECT
+DOMAIN-SUFFIX, contentabc.com, REJECT
+DOMAIN-SUFFIX, cretgate.com, REJECT
+DOMAIN-SUFFIX, ero-advertising.com, REJECT
+DOMAIN-SUFFIX, eroadvertising.com, REJECT
+DOMAIN-SUFFIX, exoclick.com, REJECT
+DOMAIN-SUFFIX, exosrv.com, REJECT
+DOMAIN-SUFFIX, go2.global, REJECT
+DOMAIN-SUFFIX, gozendata.com, REJECT
+DOMAIN-SUFFIX, gzads.com, REJECT
+DOMAIN-SUFFIX, gz-data.com, REJECT
+DOMAIN-SUFFIX, img-bss.csdn.net, REJECT
+DOMAIN-SUFFIX, imglnkc.com, REJECT
+DOMAIN-SUFFIX, imglnkd.com, REJECT
+DOMAIN-SUFFIX, innovid.com, REJECT
+DOMAIN-SUFFIX, ja2.gamersky.com, REJECT
+DOMAIN-SUFFIX, jads.co, REJECT
+DOMAIN-SUFFIX, jl3.yjaxa.top, REJECT
+DOMAIN-SUFFIX, juicyads.com, REJECT
+DOMAIN-SUFFIX, kepler-37b.com, REJECT
+DOMAIN-SUFFIX, lqc006.com, REJECT
+DOMAIN-SUFFIX, moat.com, REJECT
+DOMAIN-SUFFIX, moatads.com, REJECT
+DOMAIN-SUFFIX, mobwithad.com, REJECT
+DOMAIN-SUFFIX, realsrv.com, REJECT
+DOMAIN-SUFFIX, s4yxaqyq95.com, REJECT
+DOMAIN-SUFFIX, shhs-ydd8x2.yjrmss.cn, REJECT
+DOMAIN-SUFFIX, static.javhd.com, REJECT
+DOMAIN-SUFFIX, tm-banners.gamingadult.com, REJECT
+DOMAIN-SUFFIX, trafficfactory.biz, REJECT
+DOMAIN-SUFFIX, tsyndicate.com, REJECT
+DOMAIN-SUFFIX, wwads.cn, REJECT
 
+# 36Kr
+DOMAIN-SUFFIX, adx.36kr.com, REJECT
+
+# AdHub
+DOMAIN-SUFFIX, hubcloud.com.cn, REJECT
+
+# AdScope
+DOMAIN-SUFFIX, beizi.biz, REJECT
+
+# ali213
+DOMAIN-SUFFIX, click.ali213.net, REJECT
+DOMAIN-SUFFIX, pbmp.ali213.net, REJECT
+
+# Chinaso
+DOMAIN-SUFFIX, adq.chinaso.com, REJECT
+DOMAIN-SUFFIX, stat.chinaso.com, REJECT
+
+# Httpool
+DOMAIN-SUFFIX, toboads.com, REJECT
+
+# Qiniu
+DOMAIN-SUFFIX, dn-growing.qbox.me, REJECT
+
+# UNI Marketing
+DOMAIN-SUFFIX, ad.unimhk.com, REJECT
+
+# UCloud
+DOMAIN-SUFFIX, das-rpt-log.ucloud.cn, REJECT
+
+# 数字精准广告
+DOMAIN-SUFFIX, telecome.cn, REJECT
+DOMAIN-SUFFIX, unioncom.cc, REJECT
+
+# 数字联盟(device ad id)
+DOMAIN-SUFFIX, shuzilm.cn, REJECT
+ 
 geoip, cn, direct
 
