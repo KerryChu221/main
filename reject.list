@@ -449,7 +449,9 @@ DOMAIN-SUFFIX, push.qq.com, REJECT
 DOMAIN-SUFFIX, pgdt.gtimg.cn, REJECT
 DOMAIN-SUFFIX, ugdtimg.com, REJECT
 
-
+#tagtic
+DOMAIN-SUFFIX, g1.tagtic.cn, REJECT
+DOMAIN-SUFFIX, xy-log.tagtic.cn, REJECT
 
 #小米
 DOMAIN-SUFFIX, a.market.xiaomi.com, REJECT
