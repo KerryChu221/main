@@ -404,6 +404,13 @@ DOMAIN-SUFFIX, widget.weibo.com, REJECT
 DOMAIN-SUFFIX, woocall.sina.com.cn, REJECT
 DOMAIN-SUFFIX, zymo.mps.weibo.com, REJECT
 
+#友盟
+DOMAIN-SUFFIX, alog.umeng.com, REJECT
+DOMAIN-SUFFIX, alog.umengcloud.com, REJECT
+DOMAIN-SUFFIX, w.cnzz.com, REJECT
+DOMAIN-SUFFIX, z.gds.cnzz.com, REJECT
+
+
 #新浪
 DOMAIN-SUFFIX, analytics.163.com, REJECT
 DOMAIN-SUFFIX, crash.163.com, REJECT
