@@ -583,6 +583,8 @@ DOMAIN-SUFFIX, static.sensorsdata.cn, REJECT
 DOMAIN, emdcadvertise.eastmoney.com, REJECT
 DOMAIN, roadshow.lvb.eastmoney.com, REJECT
 DOMAIN, adm.10jqka.com.cn, REJECT
+DOMAIN, ad.12306.cn, REJECT
+
 
 # 36Kr
 DOMAIN-SUFFIX, adx.36kr.com, REJECT
