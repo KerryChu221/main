@@ -11,8 +11,7 @@ DOMAIN-SUFFIX, m-team.cc, 代理
 DOMAIN-SUFFIX, science.org, 代理
 DOMAIN-SUFFIX, sciencemag.org, 代理
 DOMAIN-SUFFIX, teamviewer.com, 代理
-DOMAIN, news-af.feednews.com, 代理
-DOMAIN, news.opera-api.com, 代理
+
 
 # Top blocked sites
 DOMAIN-SUFFIX, meta.com, 代理
@@ -399,6 +398,10 @@ DOMAIN-SUFFIX, nytimes.com, 代理
 DOMAIN-SUFFIX, nytstyle.com, 代理
 DOMAIN-SUFFIX, timestalks.com, 代理
 
+#Opera
+DOMAIN, news-af.feednews.com, 代理
+DOMAIN, news.opera-api.com, 代理
+DOMAIN, ofi-sub.osp.opera.software, 代理
 
 # SoundCloud
 DOMAIN-SUFFIX, soundcloud.com, 代理
