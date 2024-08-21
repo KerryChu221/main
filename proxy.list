@@ -11,7 +11,8 @@ DOMAIN-SUFFIX, m-team.cc, 代理
 DOMAIN-SUFFIX, science.org, 代理
 DOMAIN-SUFFIX, sciencemag.org, 代理
 DOMAIN-SUFFIX, teamviewer.com, 代理
-
+DOMAIN, news-af.feednews.com, 代理
+DOMAIN, news.opera-api.com, 代理
 
 # Top blocked sites
 DOMAIN-SUFFIX, meta.com, 代理
@@ -164,11 +165,12 @@ DOMAIN-SUFFIX, segment.io, 代理
 DOMAIN-SUFFIX, sentry.io, 代理
 DOMAIN-SUFFIX, stripe.com, 代理
 DOMAIN-SUFFIX, turn.livekit.cloud, 代理
-IP-CIDR,24.199.123.28/32, 代理, NO-RESOLVE
-IP-CIDR,45.76.214.191/32, 代理, NO-RESOLVE
-IP-CIDR,64.23.132.171/32, 代理, NO-RESOLVE
-IP-CIDR,143.198.200.27/32, 代理, NO-RESOLVE
-IP-CIDR,159.89.204.203/32, 代理, NO-RESOLVE
+IP-CIDR, 138.2.88.169/16, 代理, NO-RESOLVE
+IP-CIDR, 24.199.123.28/32, 代理, NO-RESOLVE
+IP-CIDR, 45.76.214.191/32, 代理, NO-RESOLVE
+IP-CIDR, 64.23.132.171/32, 代理, NO-RESOLVE
+IP-CIDR, 143.198.200.27/32, 代理, NO-RESOLVE
+IP-CIDR, 159.89.204.203/32, 代理, NO-RESOLVE
 
 
 #cloudflare
