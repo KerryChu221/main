@@ -403,6 +403,7 @@ DOMAIN, news-af.feednews.com, 代理
 DOMAIN, news.opera-api.com, 代理
 DOMAIN, ofi-sub.osp.opera.software, 代理
 DOMAIN, 0a03yr-skadsdkless.appsflyersdk.com, 代理
+DOMAIN, 0a03yr-inapps.appsflyersdk.com, 代理
 
 # SoundCloud
 DOMAIN-SUFFIX, soundcloud.com, 代理
