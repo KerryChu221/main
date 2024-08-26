@@ -386,6 +386,21 @@ DOMAIN-SUFFIX, line.me, 代理
 DOMAIN-SUFFIX, line-apps.com, 代理
 DOMAIN-SUFFIX, line-cdn.net, 代理
 DOMAIN-SUFFIX, line-scdn.net, 代理
+DOMAIN-SUFFIX, gcld-line.com, 代理
+DOMAIN-SUFFIX, lin.ee, 代理
+DOMAIN-SUFFIX, line-apps-beta.com, 代理
+DOMAIN-SUFFIX, line-apps-rc.com, 代理
+DOMAIN-SUFFIX, line-beta.me, 代理
+DOMAIN-SUFFIX, line.biz, 代理
+DOMAIN-SUFFIX, linecorp.com, 代理
+DOMAIN-SUFFIX, linefriends.com, 代理
+DOMAIN-SUFFIX, linefriends.com.tw, 代理
+DOMAIN-SUFFIX, linegame.jp, 代理
+DOMAIN-SUFFIX, linemobile.com, 代理
+DOMAIN-SUFFIX, linemyshop.com, 代理
+DOMAIN-SUFFIX, lineshoppingseller.com, 代理
+DOMAIN-SUFFIX, linetv.tw, 代理
+DOMAIN-SUFFIX, nhncorp.jp, 代理
 
 #Nytimes
 DOMAIN-SUFFIX, nyt.com, 代理
