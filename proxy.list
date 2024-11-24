@@ -428,28 +428,28 @@ DOMAIN-SUFFIX, sndcdn.com, 代理
 
 #Spotify
 
-DOMAIN-SUFFIX, byspotify.com, Spotify
-DOMAIN-SUFFIX, pscdn.co, Spotify
-DOMAIN-SUFFIX, scdn.co, Spotify
-DOMAIN-SUFFIX, spoti.fi, Spotify
-DOMAIN-SUFFIX, spotify-everywhere.com, Spotify
-DOMAIN-SUFFIX, spotify.com, Spotify
-DOMAIN-SUFFIX, spotify.design, Spotify
-DOMAIN-SUFFIX, spotifycdn.com, Spotify
-DOMAIN-SUFFIX, spotifycdn.net, Spotify
-DOMAIN-SUFFIX, spotifycharts.com, Spotify
-DOMAIN-SUFFIX, spotifycodes.com, Spotify
-DOMAIN-SUFFIX, spotifyforbrands.com, Spotify
-DOMAIN-SUFFIX, spotifyjobs.com, Spotify
-DOMAIN, audio-ak-spotify-com.akamaized.net, Spotify
-DOMAIN, audio4-ak-spotify-com.akamaized.net, Spotify
-DOMAIN, cdn-spotify-experiments.conductrics.com, Spotify
-DOMAIN, heads-ak-spotify-com.akamaized.net, Spotify
-DOMAIN, heads4-ak-spotify-com.akamaized.net, Spotify
-DOMAIN, spotify.com.edgesuite.net, Spotify
-DOMAIN, spotify.map.fastly.net, Spotify
-DOMAIN, spotify.map.fastlylb.net, Spotify
-IP-ASN, 54113, Spotify, NO-RESOLVE
+DOMAIN-SUFFIX, byspotify.com, 代理
+DOMAIN-SUFFIX, pscdn.co, 代理
+DOMAIN-SUFFIX, scdn.co, 代理
+DOMAIN-SUFFIX, spoti.fi, 代理
+DOMAIN-SUFFIX, spotify-everywhere.com, 代理
+DOMAIN-SUFFIX, spotify.com, 代理
+DOMAIN-SUFFIX, spotify.design, 代理
+DOMAIN-SUFFIX, spotifycdn.com, 代理
+DOMAIN-SUFFIX, spotifycdn.net, 代理
+DOMAIN-SUFFIX, spotifycharts.com, 代理
+DOMAIN-SUFFIX, spotifycodes.com, 代理
+DOMAIN-SUFFIX, spotifyforbrands.com, 代理
+DOMAIN-SUFFIX, spotifyjobs.com, 代理
+DOMAIN, audio-ak-spotify-com.akamaized.net, 代理
+DOMAIN, audio4-ak-spotify-com.akamaized.net, 代理
+DOMAIN, cdn-spotify-experiments.conductrics.com, 代理
+DOMAIN, heads-ak-spotify-com.akamaized.net, 代理
+DOMAIN, heads4-ak-spotify-com.akamaized.net, 代理
+DOMAIN, spotify.com.edgesuite.net, 代理
+DOMAIN, spotify.map.fastly.net, 代理
+DOMAIN, spotify.map.fastlylb.net, 代理
+IP-ASN, 54113, 代理, NO-RESOLVE
 
 
 #telegram
