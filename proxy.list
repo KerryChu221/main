@@ -123,54 +123,54 @@ DOMAIN-SUFFIX, blogblog.com, 代理
 DOMAIN-SUFFIX, blogspot.com, 代理
 
 #Chatgpt
-DOMAIN-SUFFIX, openai.com, 代理
-DOMAIN-SUFFIX, chatgpt.com, 代理
-DOMAIN-SUFFIX, oaistatic.com, 代理
-DOMAIN-SUFFIX, oaiusercontent.com, 代理
-DOMAIN-SUFFIX, api.revenuecat.com, 代理
+DOMAIN-SUFFIX, openai.com, ChatGPT
+DOMAIN-SUFFIX, chatgpt.com, ChatGPT
+DOMAIN-SUFFIX, oaistatic.com, ChatGPT
+DOMAIN-SUFFIX, oaiusercontent.com, ChatGPT
+DOMAIN-SUFFIX, api.revenuecat.com, ChatGPT
 # CDN & API
-DOMAIN, openai.com.cdn.cloudflare.net, 代理
-DOMAIN, openaiapi-site.azureedge.net, 代理
-DOMAIN, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, 代理
-DOMAIN, openaicomproductionae4b.blob.core.windows.net, 代理
-DOMAIN, production-openaicom-storage.azureedge.net, 代理
+DOMAIN, openai.com.cdn.cloudflare.net, ChatGPT
+DOMAIN, openaiapi-site.azureedge.net, ChatGPT
+DOMAIN, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, ChatGPT
+DOMAIN, openaicomproductionae4b.blob.core.windows.net, ChatGPT
+DOMAIN, production-openaicom-storage.azureedge.net, ChatGPT
 # tracking @ads
-DOMAIN, o33249.ingest.sentry.io, 代理
-DOMAIN, openaicom.imgix.net, 代理
+DOMAIN, o33249.ingest.sentry.io, ChatGPT
+DOMAIN, openaicom.imgix.net, ChatGPT
 #add
-DOMAIN-SUFFIX, datadoghq.com, 代理
-DOMAIN-SUFFIX, browser-intake-datadoghq.com, 代理
-DOMAIN, api.statsig.com, 代理
-DOMAIN, chat.openai.com.cdn.cloudflare.net, 代理
-DOMAIN, static.cloudflareinsights.com, 代理
-DOMAIN-SUFFIX, algolia.net, 代理
-DOMAIN-SUFFIX, auth0.com, 代理
-DOMAIN-SUFFIX, cdn.cloudflare.net, 代理
-DOMAIN-SUFFIX, challenges.cloudflare.com, 代理
-DOMAIN-SUFFIX, chatgpt.livekit.cloud, 代理
-DOMAIN-SUFFIX, client-api.arkoselabs.com, 代理
-DOMAIN-SUFFIX, events.statsigapi.net, 代理
-DOMAIN-SUFFIX, featuregates.org, 代理
-DOMAIN-SUFFIX, DOMAIN.livekit.cloud, 代理
-DOMAIN-SUFFIX, identrust.com, 代理
-DOMAIN-SUFFIX, intercom.io, 代理
-DOMAIN-SUFFIX, intercomcdn.com, 代理
-DOMAIN-SUFFIX, launchdarkly.com, 代理
-DOMAIN-SUFFIX, observeit.net, 代理
-DOMAIN-SUFFIX, openaiapi-site.azureedge.net, 代理
-DOMAIN-SUFFIX, openaicom.imgix.net, 代理
-DOMAIN-SUFFIX, poe.com, 代理
-DOMAIN-SUFFIX, segment.io, 代理
-DOMAIN-SUFFIX, sentry.io, 代理
-DOMAIN-SUFFIX, stripe.com, 代理
-DOMAIN-SUFFIX, turn.livekit.cloud, 代理
-IP-CIDR, 138.2.88.169/16, 代理, NO-RESOLVE
-IP-CIDR, 24.199.123.28/32, 代理, NO-RESOLVE
-IP-CIDR, 45.76.214.191/32, 代理, NO-RESOLVE
-IP-CIDR, 64.23.132.171/32, 代理, NO-RESOLVE
-IP-CIDR, 143.198.200.27/32, 代理, NO-RESOLVE
-IP-CIDR, 159.89.204.203/32, 代理, NO-RESOLVE
-IP-CIDR, 129.150.51.169/16, 代理, NO-RESOLVE
+DOMAIN-SUFFIX, datadoghq.com, ChatGPT
+DOMAIN-SUFFIX, browser-intake-datadoghq.com, ChatGPT
+DOMAIN, api.statsig.com, ChatGPT
+DOMAIN, chat.openai.com.cdn.cloudflare.net, ChatGPT
+DOMAIN, static.cloudflareinsights.com, ChatGPT
+DOMAIN-SUFFIX, algolia.net, ChatGPT
+DOMAIN-SUFFIX, auth0.com, ChatGPT
+DOMAIN-SUFFIX, cdn.cloudflare.net, ChatGPT
+DOMAIN-SUFFIX, challenges.cloudflare.com, ChatGPT
+DOMAIN-SUFFIX, chatgpt.livekit.cloud, ChatGPT
+DOMAIN-SUFFIX, client-api.arkoselabs.com, ChatGPT
+DOMAIN-SUFFIX, events.statsigapi.net, ChatGPT
+DOMAIN-SUFFIX, featuregates.org, ChatGPT
+DOMAIN-SUFFIX, DOMAIN.livekit.cloud, ChatGPT
+DOMAIN-SUFFIX, identrust.com, ChatGPT
+DOMAIN-SUFFIX, intercom.io, ChatGPT
+DOMAIN-SUFFIX, intercomcdn.com, ChatGPT
+DOMAIN-SUFFIX, launchdarkly.com, ChatGPT
+DOMAIN-SUFFIX, observeit.net, ChatGPT
+DOMAIN-SUFFIX, openaiapi-site.azureedge.net, ChatGPT
+DOMAIN-SUFFIX, openaicom.imgix.net, ChatGPT
+DOMAIN-SUFFIX, poe.com, ChatGPT
+DOMAIN-SUFFIX, segment.io, ChatGPT
+DOMAIN-SUFFIX, sentry.io, ChatGPT
+DOMAIN-SUFFIX, stripe.com, ChatGPT
+DOMAIN-SUFFIX, turn.livekit.cloud, ChatGPT
+IP-CIDR, 138.2.88.169/16, ChatGPT, NO-RESOLVE
+IP-CIDR, 24.199.123.28/32, ChatGPT, NO-RESOLVE
+IP-CIDR, 45.76.214.191/32, ChatGPT, NO-RESOLVE
+IP-CIDR, 64.23.132.171/32, ChatGPT, NO-RESOLVE
+IP-CIDR, 143.198.200.27/32, ChatGPT, NO-RESOLVE
+IP-CIDR, 159.89.204.203/32, ChatGPT, NO-RESOLVE
+IP-CIDR, 129.150.51.169/16, ChatGPT, NO-RESOLVE
 
 #cloudflare
 DOMAIN-SUFFIX, cloudflare.com, 代理
