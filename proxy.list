@@ -173,6 +173,8 @@ IP-CIDR, 159.89.204.203/32, ChatGPT, NO-RESOLVE
 IP-CIDR, 129.150.51.169/16, ChatGPT, NO-RESOLVE
 
 #claude
+DOMAIN-SUFFIX, claude.ai, 代理
+DOMAIN-SUFFIX, siftscience.com, 代理
 DOMAIN-SUFFIX, anthropic.com, 代理
 
 #cloudflare
