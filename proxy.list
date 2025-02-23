@@ -176,6 +176,7 @@ IP-CIDR, 129.150.51.169/16, ChatGPT, NO-RESOLVE
 DOMAIN-SUFFIX, claude.ai, 代理
 DOMAIN-SUFFIX, siftscience.com, 代理
 DOMAIN-SUFFIX, anthropic.com, 代理
+DOMAIN-SUFFIX, prodregistryv2.org, 代理
 
 #cloudflare
 DOMAIN-SUFFIX, cloudflare.com, 代理
@@ -324,6 +325,8 @@ IP-CIDR, 74.125.0.0/16, YouTube, NO-RESOLVE
 
 #Grok
 DOMAIN-SUFFIX, x.ai, 代理
+DOMAIN-SUFFIX, featureassets.org, 代理
+
 
 #Instagram
 
